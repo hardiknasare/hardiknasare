@@ -9,6 +9,8 @@ I am a Mechanical Engineer love to code.
   <a href="https://www.instagram.com/hardik.nasare/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="mailto:emersonpess011108@gmail.com?">
+    <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 - 👨‍💼 Trainee Software Engineer at IVY Comptech Hyderabad
@@ -16,7 +18,6 @@ I am a Mechanical Engineer love to code.
 - 💼 I have a Bachelor's degree in Mechanical Engineering.
 - ⚡ My interests are in Fullstack Web Development.
 - 🌱 Currently learning new technologies.  
--	📧 You can reach me @ my [Hardik Nasare](mailto:nasare.hardik29@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hardiknasare)
 <a href="https://gist.github.com/hardiknasare">
