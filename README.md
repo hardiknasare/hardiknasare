@@ -16,8 +16,7 @@ I am a Mechanical Engineer love to code.
 - 💼 I have a Bachelor's degree in Mechanical Engineering.
 - ⚡ My interests are in Fullstack Web Development.
 - 🌱 Currently learning new technologies.  
--	📧 You can reach me @ my [Email](mailto:nasare.hardik29@gmail.com)
--	[Contact Us](mailto:admin@cloudhadoop.com)
+-	📧 You can reach me @ my <a href="mailto:nasare.hardik29@gmail.com" >Email </a>
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hardiknasare)
 <a href="https://gist.github.com/hardiknasare">
