@@ -15,8 +15,8 @@ I am a Mechanical Engineer love to code.
 - ✏️ Done CDAC from Institute of Advanced Computing.
 - 💼 I have a Bachelor's degree in Mechanical Engineering.
 - ⚡ My interests are in Fullstack Web Development.
-- 🧠 Currently learning about Advanced Data Structures & Algorithms.  
-- 💬 Ask me anything, I love to answer!
+- 🌱 Currently learning new technologies.  
+-	📧 You can reach me @ my [Email](mailto:nasare.hardik29@gmail.com)
   
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=hardiknasare)
 <a href="https://gist.github.com/hardiknasare">
