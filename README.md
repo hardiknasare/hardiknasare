@@ -11,7 +11,8 @@ I am a Mechanical Engineer love to code.
   </a>&nbsp;&nbsp;
 </p>
 
-- ✏️ I'm currenly pursuing PG Diploma in Advanced Computing from CDAC, Pune.
+- 👨‍💼 Trainee Software Engineer at IVY Comptech Hyderabad
+- ✏️ Done CDAC from Institute of Advanced Computing.
 - 💼 I have a Bachelor's degree in Mechanical Engineering.
 - ⚡ My interests are in Fullstack Web Development.
 - 🧠 Currently learning about Advanced Data Structures & Algorithms.  
