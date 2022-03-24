@@ -13,7 +13,7 @@ I am a Mechanical Engineer love to code.
     <img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-- 👨‍💼 Trainee Software Engineer at IVY Comptech Hyderabad
+- 👨‍💼 Software Engineer at IVY Comptech Hyderabad
 - ✏️ Done CDAC from Institute of Advanced Computing.
 - 💼 I have a Bachelor's degree in Mechanical Engineering.
 - ⚡ My interests are in Fullstack Web Development.
